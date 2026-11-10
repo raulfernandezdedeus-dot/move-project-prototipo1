@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="title desc">
+  <title id="title">Autobús MoveProject</title>
+  <desc id="desc">Ilustración original de un autobús azul y naranja entre montañas.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#e9f3fb"/><stop offset="1" stop-color="#fff"/></linearGradient>
+    <linearGradient id="coach" x2="0" y2="1"><stop stop-color="#fff"/><stop offset="1" stop-color="#d7e0e8"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#31516a"/><stop offset="1" stop-color="#102b40"/></linearGradient>
+  </defs>
+  <rect width="1200" height="620" rx="30" fill="url(#sky)"/>
+  <circle cx="982" cy="116" r="56" fill="#ffe1b8"/>
+  <path d="M0 365 214 181l157 144 207-199 258 249 161-154 203 162v237H0Z" fill="#dce7ec"/>
+  <path d="m0 414 236-153 191 172 193-140 216 154 199-185 165 138v220H0Z" fill="#b5c9c7"/>
+  <path d="M0 461q193-78 378-13t400 0q223-67 422-1v173H0Z" fill="#c9d9cb"/>
+  <path d="M0 543q284-57 596 0t604 0v77H0Z" fill="#35434a"/>
+  <path d="M0 582q285-46 600 0t600 0" fill="none" stroke="#f5f0d7" stroke-width="9" stroke-dasharray="58 36"/>
+  <ellipse cx="600" cy="500" rx="406" ry="38" fill="#17242b" opacity=".18"/>
+  <g transform="translate(165 215)">
+    <path d="M53 58Q70 24 119 18L687 18q40 0 69 36l95 123q18 24 18 55v78q0 26-27 26H34q-27 0-27-28V104q0-35 46-46Z" fill="url(#coach)" stroke="#8ea5b7" stroke-width="5"/>
+    <path d="M124 42h551q31 0 52 27l66 86H98V71q0-29 26-29Z" fill="url(#glass)"/>
+    <path d="M83 74q-25 4-25 34v47h-25v-47q0-27 25-34Z" fill="#f28c28"/>
+    <path d="M97 169h702v57H36v-48q0-9 10-9Z" fill="#164b78"/>
+    <path d="M97 226h702v10H97Z" fill="#f28c28"/>
+    <path d="M36 236h763v35q0 27-27 27H35v-38q0-24 1-24Z" fill="#edf0f1"/>
+    <path d="M712 55h14l75 99h-89Z" fill="#8399a6" opacity=".75"/>
+    <path d="M16 171h18v47H16q-9 0-9-10v-27q0-10 9-10Z" fill="#ffe1b8"/>
+    <path d="M804 167h37v48h-37Z" fill="#fff6df" stroke="#8ea5b7" stroke-width="4"/>
+    <text x="146" y="214" fill="#fff" font-family="Arial,Helvetica,sans-serif" font-size="43" font-weight="700" letter-spacing=".2">MoveProject</text>
+    <text x="150" y="260" fill="#164b78" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="4">MUEVE TU CAMINO</text>
+    <circle cx="169" cy="293" r="48" fill="#26343c"/><circle cx="169" cy="293" r="22" fill="#b9c3c8"/><circle cx="169" cy="293" r="9" fill="#e7ecee"/>
+    <circle cx="704" cy="293" r="48" fill="#26343c"/><circle cx="704" cy="293" r="22" fill="#b9c3c8"/><circle cx="704" cy="293" r="9" fill="#e7ecee"/>
+    <path d="M217 48v106m80-106v106m80-106v106m80-106v106m80-106v106m80-106v106" stroke="#d4e1e7" stroke-width="3" opacity=".85"/>
+  </g>
+  <g fill="#fff" opacity=".85"><path d="M145 130q12-29 41-16 18-28 48-12 29-9 39 20h-128Z"/><path d="M817 206q9-22 31-12 14-21 36-9 23-7 30 16h-97Z"/></g>
+</svg>

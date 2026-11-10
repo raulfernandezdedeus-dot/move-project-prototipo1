@@ -1,0 +1,5 @@
+MOVEPROJECT · Prototipo interactivo de viajes
+
+Para usar o publicar, mantén juntos index.html, moveproject-logo.svg, moveproject-bus.svg, moveproject-coach.svg y alberto.svg. Las ciudades usan fotografías externas y una ilustración local si no cargan.
+
+El alta y la cuenta se guardan localmente en el navegador. Alberto ofrece respuestas predefinidas para las funciones de la demo; una IA conectada requiere un backend y una clave de API. No se efectúan cargos reales.

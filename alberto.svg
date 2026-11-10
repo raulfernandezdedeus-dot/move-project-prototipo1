@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+  <title id="title">Alberto, tu asistente de viajes</title>
+  <desc id="desc">Retrato ilustrado de un asistente amable con chaqueta azul y naranja.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#e5f2fb"/><stop offset="1" stop-color="#fff0dc"/></linearGradient></defs>
+  <rect width="180" height="180" rx="32" fill="url(#bg)"/>
+  <circle cx="90" cy="74" r="44" fill="#f4c9a4"/>
+  <path d="M47 69q1-46 44-46 38 0 43 40l-18-17q-16 7-43 3-8 14-26 20Z" fill="#28394a"/>
+  <path d="M38 180q3-54 52-58 49 4 52 58Z" fill="#164b78"/>
+  <path d="m70 125 20 24 20-24 17 55H53Z" fill="#f28c28"/>
+  <path d="M73 81q6 5 12 0m14 0q6 5 12 0" fill="none" stroke="#28394a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M78 100q12 12 25 0" fill="none" stroke="#a64e45" stroke-width="4" stroke-linecap="round"/>
+  <path d="M43 59v26m94-26v26" stroke="#f28c28" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="145" cy="35" r="15" fill="#f28c28"/><path d="m139 35 4 4 8-9" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
